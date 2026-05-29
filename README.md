@@ -85,3 +85,8 @@ Execute `python main.py` inside your environment terminal prompt to handle netwo
 3. **Save**: Click **System > Save** to burn your current row edits natively into `modified.csv`.
 4. **Deploy**: Click **System > Deploy** to review the compiled line differentials. Clicking **✔️ Confirm Deployment** purges stale files from the router's flash memory and pushes the fresh config via the FTP server thread.
 5. **Activate**: Click **System > Activate** to safely load the file from flash memory into the router's `running-config` in real time.
+
+## 📥 Download Source Code
+
+You can download the source code from the GitHub repository here:
+https://github.com/richyim/router-DNS
