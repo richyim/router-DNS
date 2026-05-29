@@ -20,7 +20,7 @@ An interactive, Excel-like desktop application designed to pull, edit, and safel
 The application repository is organized into a clean component layer:
 
 ```text
-C:\Users\rich\code\101\ssh_router\
+C:\Users\rich\ssh_router\
 ├── main.py               # Main entry point and subprocess detacher
 ├── router.ini            # Configuration and credential storage asset
 ├── running.csv           # Storage backup for active router DNS records
