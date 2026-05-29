@@ -1,7 +1,7 @@
 import os
 import sys
 
-PROGRAM_ROOT = r"C:\Users\rich\code\101\ssh_router"
+PROGRAM_ROOT = r"C:\Users\rich\ssh_router"
 
 # Configure library dynamic lookup path
 LIB_DIRECTORY = os.path.join(PROGRAM_ROOT, "lib")
